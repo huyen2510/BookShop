@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\Nam3\TT Nhóm\BookShopTuto\BookShopTuto\bin\Debug\BookShopTuto.exe.config
+C:\Users\Admin\Documents\Nam3\TT Nhóm\BookShopTuto\BookShopTuto\bin\Debug\BookShopTuto.exe
+C:\Users\Admin\Documents\Nam3\TT Nhóm\BookShopTuto\BookShopTuto\bin\Debug\BookShopTuto.pdb
+C:\Users\Admin\Documents\Nam3\TT Nhóm\BookShopTuto\BookShopTuto\obj\Debug\BookShop.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Nam3\TT Nhóm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.AdminLogin.resources
+C:\Users\Admin\Documents\Nam3\TT Nhóm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.Billing.resources
+C:\Users\Admin\Documents\Nam3\TT Nhóm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.Books.resources
+C:\Users\Admin\Documents\Nam3\TT Nhóm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.DashBoard.resources
+C:\Users\Admin\Documents\Nam3\TT Nhóm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.Login.resources
+C:\Users\Admin\Documents\Nam3\TT Nhóm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.Splash.resources
+C:\Users\Admin\Documents\Nam3\TT Nhóm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.Properties.Resources.resources
+C:\Users\Admin\Documents\Nam3\TT Nhóm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.Users.resources
+C:\Users\Admin\Documents\Nam3\TT Nhóm\BookShopTuto\BookShopTuto\obj\Debug\BookShop.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Nam3\TT Nhóm\BookShopTuto\BookShopTuto\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Nam3\TT Nhóm\BookShopTuto\BookShopTuto\obj\Debug\BookShop.csproj.CopyComplete
+C:\Users\Admin\Documents\Nam3\TT Nhóm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.exe
+C:\Users\Admin\Documents\Nam3\TT Nhóm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.pdb
